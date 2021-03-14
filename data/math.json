@@ -1,0 +1,50 @@
+{   
+"messages": 
+    ["Please go back to basics.", "Not too bad.", "Congratulations you are a math genius."],
+"styles": 
+    [
+        {
+            "background": {
+                "background-color": "yellow",
+                "color": "black"
+            },
+            "option": {
+                "font-style": "italic",
+                "font-family": "Papyrus"
+            },
+            "question_style": {
+                "font-weight": "bold",
+                "font-family": "Monaco"
+            }
+        }   
+    ],  
+    
+"questions":
+    [ 
+        {
+            "question": "5 x 5 = ?",
+            "options": [25, 30, 35, 40],
+            "answer": 25
+        },
+        {
+            "question": "6 x 5 = ?",
+            "options": [25, 30, 35, 40],
+            "answer": 30
+        },
+        {
+            "question": "7 x 5 = ?",
+            "options": [25, 30, 35, 40],
+            "answer": 35
+        },
+        {
+            "question": "8 x 5 = ?",
+            "options": [25, 30, 35, 40],
+            "answer": 40
+        },
+        {
+            "question": "32 x 18 = ?",
+            "options": [576, 566, 586, 596],
+            "answer": 25
+        }
+    ]
+}

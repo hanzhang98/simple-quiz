@@ -1,0 +1,50 @@
+{   
+"messages": 
+    ["Are you a DC fan?", "You have some knowledge of the MCU!", "Stan Lee would've been proud of you!"],
+"styles": 
+    [
+        {
+            "background": {
+                "background-color": "black",
+                "color": "white"
+            },
+            "option": {
+                "font-style": "oblique",
+                "font-family": "Times New Roman"
+            },
+            "question_style": {
+                "font-style": "bold",
+                "font-family": "Monaco"
+            }
+        }   
+    ],  
+    
+"questions":
+    [ 
+        {
+            "question": "Who's Tony Stark's dad?",
+            "options": ["Howard Stark", "Stephen Stark", "Mark Stark", "Anthony Stark"],
+            "answer": "Howard Stark"
+        },
+        {
+            "question": "Which of these is not an infinity stone?",
+            "options": ["Time", "Space", "Soul", "Spirit"],
+            "answer": "Spirit"
+        },
+        {
+            "question": "What country are Scarlet Witch and Quicksilver from?",
+            "options": ["Wakanda", "Sokovia", "Krakoa", "Siberia"],
+            "answer": "Sokovia"
+        },
+        {
+            "question": "What's the name of the helpful AI Tony Stark invented to replace JARVIS?",
+            "options": ["SHIELD", "FRIDAY", "ULTRON", "EDITH"],
+            "answer": "FRIDAY"
+        },
+        {
+            "question": "Who's the 'strongest avenger' according to Tony Stark?",
+            "options": ["Thor", "Hulk", "Captain Marvel", "Thanos"],
+            "answer": "Hulk"
+        }
+    ]
+}
